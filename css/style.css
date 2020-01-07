@@ -1,0 +1,94 @@
+.topbarUl{
+	background-color: #3498db;
+}
+.topbar ul{
+	margin: 5px 0px;
+}
+.topbar ul li a {
+	color: #fff;
+}
+.rowTopBar{
+	margin: 0;
+}
+.navbar-default{
+	background-color: #34495e;
+	border-color: transparent;
+}
+.navbar {
+	border-radius: 0;
+	margin-bottom: 0;
+}
+.navbar-default .navbar-nav > li > a {
+	color: #fff;
+}
+.navbar-default .navbar-nav > li > a:hover {
+	color: #777;
+}
+.navbar-default .navbar-nav > li > a:focus {
+	color: #777;
+}
+.navbar-brand {
+	height: 80px;
+}
+.navBarUl {
+	margin: 15px 0px;
+}
+
+
+/* Slider css*/
+.slider{
+
+}
+.tcf-slider-caption-wrap { color:#fff;}
+.tcf-slider-prev-wrap,
+.tcf-slider-next-wrap{ color:#fff;}
+.tcf-slider-image-wrap img{
+	max-height: 400px;
+}
+/* slider css end*/
+
+
+.best-seller-bg{
+	margin: 0;
+	background: -webkit-linear-gradient(left, #cfcad6, #eeebe1, #cfcad6, #eeebe1, #cfcad6, #eeebe1, #cfcad6); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(left, #cfcad6, #eeebe1, #cfcad6, #eeebe1, #cfcad6, #eeebe1, #cfcad6); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(left, #cfcad6, #eeebe1, #cfcad6, #eeebe1, #cfcad6, #eeebe1, #cfcad6); /* For Fx 3.6 to 15 */
+    background: linear-gradient(to right, #cfcad6, #eeebe1, #cfcad6, #eeebe1, #cfcad6, #eeebe1, #cfcad6); /* Standard syntax (must be last) */
+}
+.best-seller {
+	padding-left: 15%;
+}
+.best-btn{
+	color: #337ab7;
+	border-color: #337ab7;
+	width: 50%;
+}
+
+/*acoustic carousal*/
+.productHead{
+	margin: 0;
+	padding: 5px;
+	vertical-align: middle;
+}
+.item img{
+	width: 100%;
+	max-height: 200px;
+}
+.buy{
+	float: right;
+}
+.myCarouselControl{
+	width: 8%;
+}
+.buyCart{
+	display: none;
+}
+.col-sm-4:hover .buyCart{
+	display: block;
+}
+/*.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+  }*/
+/*acoustic carousal end*/
